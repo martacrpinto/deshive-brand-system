@@ -1,8 +1,1 @@
-# Launch Plan
-
-- Landing Page
-- Instagram
-- Pinterest
-- Email
-- Blog
-- Post-launch review
+# 06-launch-plan

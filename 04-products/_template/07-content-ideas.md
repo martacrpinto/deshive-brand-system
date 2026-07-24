@@ -1,3 +1,1 @@
-# Content Ideas
-
-Maintain a running backlog of post ideas for this product.
+# 07-content-ideas

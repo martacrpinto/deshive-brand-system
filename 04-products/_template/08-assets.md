@@ -1,3 +1,1 @@
-# Assets
-
-Track covers, screenshots, mockups and promotional graphics.
+# 08-assets

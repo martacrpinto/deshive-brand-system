@@ -1,3 +1,1 @@
-# Changelog
-
-Record meaningful product updates.
+# 09-changelog

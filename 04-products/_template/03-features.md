@@ -1,3 +1,1 @@
-# Features
-
-List every feature with its benefit.
+# 03-features

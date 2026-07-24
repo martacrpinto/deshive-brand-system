@@ -1,7 +1,1 @@
-# Positioning
-
-## One-line Positioning
-
-## Differentiation
-
-## Why this product exists
+# 02-positioning

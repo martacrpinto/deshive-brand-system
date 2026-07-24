@@ -1,9 +1,1 @@
-# Messaging
-
-## Core Promise
-
-## Key Benefits
-
-## Objections
-
-## CTA
+# 05-messaging
